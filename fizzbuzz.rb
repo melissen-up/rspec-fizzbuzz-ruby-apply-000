@@ -1,4 +1,4 @@
 def fizzbuzz(int)
-  int % 3 == 0
+  int % 3
   puts "Fizz"
 end
