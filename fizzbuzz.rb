@@ -1,5 +1,4 @@
 def fizzbuzz(int)
-  if int % 3 == 0
-    puts "Fizz"
-  
+  int % 3 == 0
+  puts "Fizz"
 end
